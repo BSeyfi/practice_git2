@@ -1,4 +1,4 @@
-# Practice Git
+# Practice Git-to test fetch feature
 This repo is just created to practice git featurece and to warmup.
 
 # Added Locally
