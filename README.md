@@ -1,3 +1,5 @@
+second commit from another user
+---
 another commit from another user
 ---
 new local commit 15-40-51
