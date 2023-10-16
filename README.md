@@ -1,4 +1,7 @@
-9988# DDD2 to PULL
+1402-07-14
+Before Commiting
+---
+
 # Practice Git-to test fetch feature+pushing
 This repo is just created to practice git featurece and to warmup.
 
