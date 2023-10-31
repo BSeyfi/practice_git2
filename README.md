@@ -1,3 +1,8 @@
+
+# فارسی نویسی
+این یک جمله فارسی است
+این یک جلمه فارسی با An inline english word است.
+بسیار عالی، ببینیم با C# و generic<T> و generic<T> چه میکند
 -# Practice PR
 # DDD2 to PULL
 # Practice Git-to test fetch feature+pushing
